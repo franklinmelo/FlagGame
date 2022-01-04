@@ -1,5 +1,5 @@
 # FlagGame
-This project is result of the challanger [#100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui)
+This project is result of the challenger [#100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 
 # Install
